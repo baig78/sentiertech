@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 
 <div class="home-section container hs1">
-<h1 class="heading">Opportunities</h1>
+<h1 class="heading">Sentier Job Openings</h1>
 <p>
 <b> Python Developer </b>with master’s degree in Computer Science, Engineering any, Technology, Management Information Systems or related to developing, monitoring and notification tools using Python. Involve in software development life cycle (SDLC) of tracking the requirements, gathering, analysis, detailed design, development, system testing and user acceptance testing. Work under UNIX environment in development of application using Python and familiar with all of its commands. Responsible for debugging and troubleshooting the web application. Collaborate with internal teams to convert end user feedback into meaningful and improved solutions. 
 

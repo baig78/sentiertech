@@ -47,7 +47,7 @@
     font-weight: 300;">We work with companies
                     and individuals from a wide range of industries, giving us the know-how and experience to
                     personalize each and every experience. Our solutions are customized based on your unique culture,
-                    initiatives, technologies, and goals. When you choose Brooksource, you get personal, professional
+                    initiatives, technologies, and goals. When you choose Sentier, you get personal, professional
                     and customized service from people you can trust.</p>
             </div>
         </div>

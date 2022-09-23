@@ -117,23 +117,23 @@ $(".topnav ul li a").click(function(){
     $(this).parent("li").find("div").toggleClass("open");
 });
 
-$("#sendMessageButton").click(function(){
+// $("#sendMessageButton").click(function(){
            
            
 
-           $.ajax({
-               url: "api.php",
-               type: "post",
-               data: { field1: "hello", field2 : "hello2"},
-               success: function(d) {
-                   alert(d);
-               }
-           });
-           $.post("api.php", $("#reg-form").serialize(), function(data) {
-               alert(data);
-           });
+//         //    $.ajax({
+//         //        url: "api.php",
+//         //        type: "post",
+//         //        data: { field1: "hello", field2 : "hello2"},
+//         //        success: function(d) {
+//         //            alert(d);
+//         //        }
+//         //    });
+//            $.post("api.php", $("#reg-form").serialize(), function(data) {
+//                alert(data);
+//            });
 
-         });
+//          });
 </script>
 
 </body>
