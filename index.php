@@ -10,7 +10,7 @@
             </video>
             
             <h1 class="m-header-title">
-                <span>Delevering <br> Excellance with <br> Innovation</span>
+                <span>Delivering <br> Excellence with <br> Innovation</span>
             </h1>
             
     </header>

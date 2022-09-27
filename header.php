@@ -26,7 +26,7 @@
                     <a href="./index.php" class="site-logo">
                         <img src="images/logo_s.png">
                     </a>
-                    <a href="https://sentiertech.com/employee_portal" class="emp-link" style="
+                    <a href="employee_portal.php" class="emp-link" style="
     position: absolute;
     color: white;
     text-decoration: none;
